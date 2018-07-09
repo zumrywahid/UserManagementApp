@@ -1,4 +1,4 @@
-# User Management Application using Kotlin 4.0 and designed using  MVP architecture pattern
+# User Management Application using Kotlin and designed using  MVP architecture pattern
 
 This application is managing users profiles. Users can signup and goto dashboard to see their stuffs.
 
